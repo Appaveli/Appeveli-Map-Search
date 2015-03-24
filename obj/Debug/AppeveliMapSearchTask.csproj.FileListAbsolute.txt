@@ -1,0 +1,4 @@
+C:\Users\Dterryable\Documents\Visual Studio 2013\Projects\AppeveliMapSearchTask\AppeveliMapSearchTask\Bin\Debug\AppeveliMapSearchTask.dll
+C:\Users\Dterryable\Documents\Visual Studio 2013\Projects\AppeveliMapSearchTask\AppeveliMapSearchTask\Bin\Debug\AppeveliMapSearchTask.pdb
+C:\Users\Dterryable\Documents\Visual Studio 2013\Projects\AppeveliMapSearchTask\AppeveliMapSearchTask\obj\Debug\AppeveliMapSearchTask.dll
+C:\Users\Dterryable\Documents\Visual Studio 2013\Projects\AppeveliMapSearchTask\AppeveliMapSearchTask\obj\Debug\AppeveliMapSearchTask.pdb
